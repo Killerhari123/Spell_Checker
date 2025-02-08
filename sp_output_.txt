@@ -1,0 +1,5 @@
+[nltk_data] Downloading package words to
+[nltk_data]     C:\Users\harib\AppData\Roaming\nltk_data...
+[nltk_data]   Package words is already up-to-date!
+Enter a sentence: hello Spell Checke can you hlp me
+Corrected sentence: hello Spell checker can you help me
